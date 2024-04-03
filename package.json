@@ -1,0 +1,15 @@
+{
+  "name": "website-theme",
+  "version": "0.0.1",
+  "description": "Multiple Pages, SEO, TDK, No MVVM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "bingmax",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
+}
